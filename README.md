@@ -15,6 +15,7 @@
 | Convert number to reversed array of digits| [convertnumber.js](https://github.com/gisellesouz/codeWarsSolutions/blob/master/solutions/convertnumber.js)|
 | Remove String Spaces| [removeStringSpaces.js](https://github.com/gisellesouz/codeWarsSolutions/blob/master/solutions/removeStringSpaces.js)|
 | Is n divisible by x and y?| [isDivisible.js](https://github.com/gisellesouz/codeWarsSolutions/blob/master/solutions/isDivisible.js) |
+| Even or Odd?| [evenorodd.js](https://github.com/gisellesouz/codeWarsSolutions/blob/master/solutions/evenorodd.js)| 
  </details>
   <details><summary>7kyu</summary>
   <br/>
