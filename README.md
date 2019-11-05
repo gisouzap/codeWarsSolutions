@@ -24,5 +24,6 @@
   | Challenge | Solution |
 |:----------:|:-------------:|
 | Exes and Ohs|[exesandohs.js](https://github.com/gisellesouz/codeWarsSolutions/blob/master/solutions/exesandohs.js)| 
+| Shortest Word | [shortestWord.js](https://github.com/gisellesouz/codeWarsSolutions/blob/master/solutions/7kyu/shortestWord.js)|
 
  </details>
