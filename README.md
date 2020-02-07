@@ -17,6 +17,7 @@
 | Is n divisible by x and y?| [isDivisible.js](https://github.com/gisellesouz/codeWarsSolutions/blob/master/solutions/8kyu/isDivisible.js)|
 | Is n divisible by x and y?| [isDivisible.js](https://github.com/gisellesouz/codeWarsSolutions/blob/master/solutions/isDivisible.js) |
 | Even or Odd?| [evenorodd.js](https://github.com/gisellesouz/codeWarsSolutions/blob/master/solutions/8kyu/evenorodd.js)| 
+| Convert boolean values | [convertBoolean.js](https://github.com/gisouza-p/codeWarsSolutions/blob/master/solutions/8kyu/convertBoolean.js)|
  </details>
   <details><summary>7kyu</summary>
   <br/>
